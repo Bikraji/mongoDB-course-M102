@@ -10,3 +10,4 @@ __6 January 2015 - 24 February 2015__
 - _Week 6: Scalability_
 - _Week 7: Backup and Recovery_
 - _Final Exam_
+- Edited!!!
